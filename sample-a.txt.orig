@@ -1,5 +1,9 @@
 Aから追加
 Bから追加
+<<<<<<< HEAD
 Aから追加2
 Aから追加hoge
+||||||| c2afce2
+=======
 Aから追加hoge
+>>>>>>> feature-b
